@@ -6,10 +6,17 @@
 Here are some ideas to get you started: 
 -->
 
+* * *
+
 - :mortar_board: studying on Sungshin Women's University. AI convergence student
 - 👩🏻‍💻  Now learning Vue, React, Typescript
 - 👩🏻‍💻  Interested in Python, Machine Learning
 - :sparkles: studying at LikeLion_sswu 11th🦁
 - :sparkles: working in a company using AI image generation
+* * *
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Yun-Seo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Yun-Seo&show_icons=true&theme=one_dark_pro)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Yun-Seo)](https://github.com/anuraghazra/github-readme-stats)
