@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - :sparkles: studying at LikeLion_sswu 11th🦁
 - :sparkles: working in a company using AI image generation
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajeong67&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Yun-Seo&show_icons=true&theme=radical)
