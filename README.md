@@ -3,7 +3,7 @@
 <!--
 **Kim-Yun-Seo/Kim-Yun-Seo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - :mortar_board: working on Sungshin W.univ. AI convergence student
 - 🌱 Now learning Vue, React, Typescript
