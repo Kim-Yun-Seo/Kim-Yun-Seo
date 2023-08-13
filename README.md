@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 -->
 
 - :mortar_board: studying on Sungshin Women's University. AI convergence student
+- :sparkles: studying at LikeLion_sswu 11th🦁
+- :sparkles: working in a company using AI image generation
 - 👩🏻‍💻  Now learning
 <br>![](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -19,8 +21,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 - 👩🏻‍💻  Interested in Machine Learning
-- :sparkles: studying at LikeLion_sswu 11th🦁
-- :sparkles: working in a company using AI image generation
+
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Yun-Seo&hide=stars,issues&show_icons=true&theme=one_dark_pro)
