@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - :mortar_board: studying on Sungshin Women's University. AI convergence student
 - :sparkles: studying at LikeLion_sswu 11th🦁
 - :sparkles: working in a company using AI image generation
-- 👩🏻‍💻  Now learning
+- 👩🏻‍💻  Now studying
 <br>![](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=black)
