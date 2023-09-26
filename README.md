@@ -6,10 +6,9 @@
 
 Here are some ideas to get you started: 
 -->
-
 - :mortar_board: studying on Sungshin Women's University. AI convergence student
 - :sparkles: studying at LikeLion_sswu 11th🦁
-- :sparkles: working in a company using AI image generation
+
 - 👩🏻‍💻  Now studying
 <br>![](https://img.shields.io/badge/Vue3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=black)
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -23,8 +22,7 @@ Here are some ideas to get you started:
 - 👩🏻‍💻  Interested in Machine Learning
 
 ##
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Yun-Seo&hide=stars,issues&show_icons=true&theme=one_dark_pro)
-
+<!-- :sparkles: working in a company using AI image generation -->
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kim-Yun-Seo&hide=stars,issues&show_icons=true&theme=one_dark_pro) -->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Yun-Seo)](https://github.com/anuraghazra/github-readme-stats)
 -->
