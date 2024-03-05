@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>![](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-- 👩🏻‍💻  Interested in Machine Learning
+- 👩🏻‍💻  Interested in AI Image Generation
 
 ##
 <!-- :sparkles: working in a company using AI image generation -->
